@@ -1,1 +1,1 @@
-Video analysis of a spiral using Tracker software.
+Video analysis of a spiral motion using Tracker software.
